@@ -56,6 +56,14 @@ if (isset($_POST['submit'])) {
 	print_r($errors);
 }
 
+	<?php
+
+	$score[] = 355;
+
+
+
+?>
+
 
 
 
